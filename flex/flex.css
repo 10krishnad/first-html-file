@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: rgb(29, 1, 29);
+}
+.h1{
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 60px;
+    color: white;
+    font-family: sans-serif;
+    gap: 10px;
+    font-size: medium;
+    font-weight: 80;
+}
+.h2{
+    padding-left: 700px;
+    margin: 10px;
+    display: inline;
+    color: white;
+    font-weight: 80;
+}
+
+.bg{
+    background-color: rgb(69, 2, 69);
+}
+.main{
+    display: flex;
+    color: white;
+    margin: 10px;
+    padding: 8px;
+}
+.first{
+    margin-left: 50px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    display: flex;
+    width: 60vw;
+    gap: 8px;
+    flex: 0.6;
+}
+.second{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: larger;
+    background-color: black;
+    display: flex;
+    width: 100vw;
+    flex: 0.4;
+    gap: 10px;
+    border-radius: 8px;
+    margin-right: 0;
+}
+.secondhalf{
+    margin-right: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: large;
+    background-color: white;
+    height: 30px;
+    color: black;
+    flex: 1.7;
+    border-radius: 8px;
+}
+.third{
+    font-size: large;
+    padding: 20px;
+    display: flex;
+    width: 100vw;
+    gap: 10px;
+    flex :0.3;
+}
+.fourth{
+    font-size: large;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    flex: 0.3;
+}
+.fifth{
+    font-size: large;
+    padding: 20px;
+    flex: 0.5;
+}
+button{
+    color: black;
+    margin-left: 50px;
+    background-color: yellowgreen;
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+    font-weight: 250;
+}
+.h3{
+    display: flex;
+    gap: 10px;
+}
+.main2{
+    display: flex;
+    background-color: white;
+    gap: 20px;
+    height: 200px;
+    width: 96vw;
+    margin: 20px;
+    
+}
+.box1{
+    background-color: rgb(246, 214, 155);
+    flex: 1;
+    border-radius: 10px;
+
+}
+.box2{
+    flex: 1;
+    background-color: rgb(246, 214, 155);
+    border-radius: 10px;
+}
+.box3{
+    flex: 1;
+    background-color: rgb(246, 214, 155);
+    border-radius: 10px;
+}
