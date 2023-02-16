@@ -198,19 +198,20 @@ input{
     text-align: center;
     margin: 10px;
     height: 900px;
-    width: 1300px;
+    width: 1325px;
     background-color: black;
     color: white;
     display: block;
 }
 .f1{
+    background-color: rgb(40, 38, 38);
+    color: white;
     font-size: larger;
     padding: 10px;
     text-align: start;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 30px;
     margin-left: 300px;
-    border-color: rgb(48, 47, 47);
     width: 700px;
     height: 70px;
     display: block;
@@ -222,7 +223,8 @@ input{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 30px;
     margin-left: 300px;
-    border-color: rgb(48, 47, 47);
+    background-color: rgb(40, 38, 38);
+    color: white;
     width: 700px;
     height: 70px;
     display: block;
@@ -234,7 +236,8 @@ input{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 30px;
     margin-left: 300px;
-    border-color: rgb(48, 47, 47);
+    background-color: rgb(40, 38, 38);
+    color: white;
     width: 700px;
     height: 70px;
     display: block;
@@ -246,7 +249,8 @@ input{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 30px;
     margin-left: 300px;
-    border-color:  rgb(48, 47, 47);
+    background-color: rgb(40, 38, 38);
+    color: white;
     width: 700px;
     height: 70px;
     display: block;
@@ -258,9 +262,73 @@ input{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 30px;
     margin-left: 300px;
-    border-color:  rgb(48, 47, 47);
+    background-color: rgb(40, 38, 38);
+    color: white;
     width: 700px;
     height: 70px;
     display: block;
+}
+.foot{
+    background-color: black;
+    font-size: medium;
+    height: 500px;
+    width: 1450px;
+    margin: 10px;
+    color:  rgb(40, 38, 38);
+    padding: 10px;
+    margin: 10px;
+}
+.fo1{
+    float: left;
+    text-align: start;
+    background-color: black;
+    margin: 50px;
+    margin-left: 200px;
+    color:  rgb(102, 98, 98); 
+    display: block;
+    font-size: larger;
+}
+.fo2{
+    padding: 10px;
+    height: 200px;
+    width: 1200px;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    color:rgb(86, 82, 82) ;
+    font-size: large;
+}
+.s1{
+    margin: 10px;
+    list-style: none;
+    gap: 30px;
+    padding-right: 80px;
+
+}
+.s2{
+    list-style: none;
+    padding-right: 80px;
+}
+.s3{
+    list-style: none;
+    padding-right: 80px;
+}
+.s4{
+    list-style: none;
+    padding-right: 80px;
+}
+.bt1{
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    height: 50px;
+    width: 150px;
+    margin-top: 180px;
+    margin-left: 250px;
+    padding: 15px;
+}
+.fo3{
+    margin-left: 250px;
 }
 
